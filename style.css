@@ -1,0 +1,49 @@
+
+    background-color: yellow;
+    #mc{
+        color: blue;
+        font-size: 22px;
+    }
+    #sh{
+        color: brown;
+    }
+    .ict{
+        color: aqua;
+        margin-left: 22PX;
+        margin-right: 22PX;
+    }
+.ab{
+    border: 2px dotted;
+    background-color: blueviolet;
+    border-radius: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: green;
+}
+nav{
+    background-color: #333;
+    padding: 10px 0;
+}
+.menu{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+.menu li{
+    margin: 0 15px;
+}
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    display: block;
+}
+.menu a:hover {
+    background-color: yellow;
+    border-radius: 5px;
+}
